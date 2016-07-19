@@ -13,7 +13,8 @@
 
 ## Team
 
-Lhong is a project created by Eakkasit Tunsakool (https://github.com/julongdragon/)
+ IOS 10.x DEVELOPMENT WITH SWIFT 3 , Swift 4.x
+ is a project created by Eakkasit Tunsakool (https://github.com/julongdragon/)
 
 
 ## Credits
