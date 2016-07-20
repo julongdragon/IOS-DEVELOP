@@ -28,4 +28,4 @@ The changelog is available on the release page in repository
 
 ## License
 
-[MIT License]  © Lhong Theme
+[MIT License]  © Lhong 
