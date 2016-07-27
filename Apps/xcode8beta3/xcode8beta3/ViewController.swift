@@ -17,9 +17,11 @@ class ViewController: UIViewController {
         
         print("Click ! ,",count)
     }
-    override func prefersStatusBarHidden() -> Bool {
-        return true
-    }
+// ซ่อน Status bar  ด้วย code
+//    override func prefersStatusBarHidden() -> Bool {
+//        return true
+//    }
+// จบการซ่อน Status bar  ด้วย code
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
