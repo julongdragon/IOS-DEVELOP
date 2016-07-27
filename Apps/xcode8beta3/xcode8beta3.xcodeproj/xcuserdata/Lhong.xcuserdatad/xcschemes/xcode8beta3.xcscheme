@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "35E67CA81D4552410033A75D"
-               BuildableName = "Xcode8.app"
-               BlueprintName = "Xcode8"
-               ReferencedContainer = "container:Xcode8.xcodeproj">
+               BlueprintIdentifier = "35D1A3431D47D80C00665479"
+               BuildableName = "xcode8beta3.app"
+               BlueprintName = "xcode8beta3"
+               ReferencedContainer = "container:xcode8beta3.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,34 +28,14 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "35E67CBF1D4552430033A75D"
-               BuildableName = "Xcode8Tests.xctest"
-               BlueprintName = "Xcode8Tests"
-               ReferencedContainer = "container:Xcode8.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "35E67CCA1D4552430033A75D"
-               BuildableName = "Xcode8UITests.xctest"
-               BlueprintName = "Xcode8UITests"
-               ReferencedContainer = "container:Xcode8.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "35E67CA81D4552410033A75D"
-            BuildableName = "Xcode8.app"
-            BlueprintName = "Xcode8"
-            ReferencedContainer = "container:Xcode8.xcodeproj">
+            BlueprintIdentifier = "35D1A3431D47D80C00665479"
+            BuildableName = "xcode8beta3.app"
+            BlueprintName = "xcode8beta3"
+            ReferencedContainer = "container:xcode8beta3.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "35E67CA81D4552410033A75D"
-            BuildableName = "Xcode8.app"
-            BlueprintName = "Xcode8"
-            ReferencedContainer = "container:Xcode8.xcodeproj">
+            BlueprintIdentifier = "35D1A3431D47D80C00665479"
+            BuildableName = "xcode8beta3.app"
+            BlueprintName = "xcode8beta3"
+            ReferencedContainer = "container:xcode8beta3.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "35E67CA81D4552410033A75D"
-            BuildableName = "Xcode8.app"
-            BlueprintName = "Xcode8"
-            ReferencedContainer = "container:Xcode8.xcodeproj">
+            BlueprintIdentifier = "35D1A3431D47D80C00665479"
+            BuildableName = "xcode8beta3.app"
+            BlueprintName = "xcode8beta3"
+            ReferencedContainer = "container:xcode8beta3.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

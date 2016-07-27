@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Xcode8.xcscheme</key>
+		<key>xcode8beta3.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>35E67CA81D4552410033A75D</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>35E67CBF1D4552430033A75D</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>35E67CCA1D4552430033A75D</key>
+		<key>35D1A3431D47D80C00665479</key>
 		<dict>
 			<key>primary</key>
 			<true/>
